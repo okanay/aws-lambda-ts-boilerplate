@@ -14,7 +14,7 @@ app.use(helmet());
 
 app.get("/api", (req, res) => {
   res.json({
-    message: "server is active again",
+    message: "server is active lambda",
   });
 });
 
