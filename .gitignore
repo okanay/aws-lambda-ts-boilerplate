@@ -1,3 +1,7 @@
+#mac
+.idea
+#dist
+dist
 # Logs
 logs
 *.log
